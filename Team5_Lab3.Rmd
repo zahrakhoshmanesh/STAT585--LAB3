@@ -1,0 +1,14 @@
+---
+title: "Team5 Lab3"
+author: "Seyedehzahra Khoshmanesh, Jing Li and Xin Zhang"
+date: "3/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Our solution is at the following link:
+
+[https://github.com/Alleansa/STAT585_LAB3](https://github.com/Alleansa/STAT585_LAB3)
